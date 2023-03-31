@@ -80,6 +80,11 @@ img {
 	max-height: 100% !important;
 }
 
+#qr-code img {
+	border: 10px solid #fff;
+	border-radius: 4px;
+}
+
 .row {
 	display: flex;
 	align-items: center;
